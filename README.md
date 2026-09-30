@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/macboy5/LeetCode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/macboy5/LeetCode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/macboy5/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/macboy5/LeetCode/tree/master/1148-article-views-i) |

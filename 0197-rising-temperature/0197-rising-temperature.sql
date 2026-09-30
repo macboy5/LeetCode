@@ -3,5 +3,5 @@
 Select w1.id
 From Weather w1
 Join Weather w2
-Where datediff(w1.recordDate, w2.recordDate) = 1
-AND w1.temperature > w2.temperature
+ON datediff(w1.recordDate, w2.recordDate) = 1
+WHERE w1.temperature > w2.temperature
